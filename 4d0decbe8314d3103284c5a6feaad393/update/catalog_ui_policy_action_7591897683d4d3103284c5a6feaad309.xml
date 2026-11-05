@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Hardware Request">cc14f03e8354d3103284c5a6feaad352</catalog_item>
+        <catalog_variable>IO:2afb7cba8394d3103284c5a6feaad3a2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-05 13:29:09</sys_created_on>
+        <sys_id>7591897683d4d3103284c5a6feaad309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Env_Prod</sys_name>
+        <sys_package display_value="Hardware Request Catalog" source="x_2262012_hardwa_0">4d0decbe8314d3103284c5a6feaad393</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hardware Request Catalog">4d0decbe8314d3103284c5a6feaad393</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_7591897683d4d3103284c5a6feaad309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-05 13:29:09</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Prod env rich text color">0971cdb283d4d3103284c5a6feaad3a1</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>Env_Prod</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=7591897683d4d3103284c5a6feaad309"/>
+</record_update>

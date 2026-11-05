@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Environment">3aa67c328394d3103284c5a6feaad3a2</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-05 12:42:33</sys_created_on>
+        <sys_id>00e6b4728394d3103284c5a6feaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Hardware Request Catalog" source="x_2262012_hardwa_0">4d0decbe8314d3103284c5a6feaad393</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hardware Request Catalog">4d0decbe8314d3103284c5a6feaad393</sys_scope>
+        <sys_update_name>question_choice_00e6b4728394d3103284c5a6feaad370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-05 12:42:33</sys_updated_on>
+        <text>Test</text>
+        <value>test</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=00e6b4728394d3103284c5a6feaad370"/>
+</record_update>
